@@ -95,7 +95,7 @@ h2 {
 .secondPage {
     background-image: url("images/second_Homepage_Desktop.webp");
     width: 100%;
-    height: 640px;
+    height: 100vh;
     display: flex;
     background-position: center;
     background-size: cover;
@@ -104,7 +104,7 @@ h2 {
 .thirdPage {
     background-image: url("images/S20_Chopstick_Stack_Desktop.webp");
     width: 100%;
-    height: 640px;
+    height: 100vh;
     display: flex;
     background-position: center;
     background-size: cover;
@@ -123,7 +123,7 @@ h2 {
 .fourthPage {
     background-image: url("images/hls-resized-2.webp");
     width: 100%;
-    height: 640px;
+    height: 100vh;
     display: flex;
     background-position: center;
     background-size: cover;
